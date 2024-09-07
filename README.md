@@ -1,4 +1,4 @@
-## Instrumentos Musicais: Uma Busca Rápida e Divertida
+## Instrumentos Musicais: Uma Busca Rápida e Divertida - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 

@@ -34,7 +34,3 @@ Se você é um desenvolvedor e quer contribuir para este projeto, fique à vonta
 **Divirta-se explorando o mundo dos instrumentos musicais!** 
 
 **#instrumentosmusicais #programação #javascript #html #css #música**
-
-**Observação:** Adapte este README.md para incluir informações mais específicas sobre o seu projeto, como instruções de instalação, dependências e outros detalhes relevantes. 
-
-**Dica:** Use emojis para deixar o seu README.md mais divertido e fácil de ler!
